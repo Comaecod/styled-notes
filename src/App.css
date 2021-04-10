@@ -1,0 +1,33 @@
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.white {
+	background-color: white;
+}
+
+.App {
+	text-align: center;
+}
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	transition: 0.3s;
+	width: 40%;
+	padding: 16px;
+	height: 40%;
+	margin: 16px auto;
+	text-align: center;
+}
